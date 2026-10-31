@@ -1,0 +1,31 @@
+# Core
+numpy
+pandas
+matplotlib
+scikit-learn
+jupyter
+
+# Deep learning
+tensorflow
+torch
+torchvision
+pillow
+scikeras
+
+# Apps
+streamlit
+
+# RAG / LLM
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+langchain-ollama
+sentence-transformers
+faiss-cpu
+pypdf
+PyMuPDF
+
+# Testing
+pytest
